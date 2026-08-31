@@ -20,6 +20,10 @@ The SAM interface used a nine-point scale for two emotional dimensions:
 
 The broader aim of the study was to investigate EEG-based recognition of emotional state and its potential use in music recommendation for emotion regulation.
 
+<p align="center">
+  <img src="er_bci_experiment_design.png" alt="Design of the music emotion EEG experiment" width="100%">
+</p>
+
 ## Implementation
 
 The experiment was implemented in MATLAB using [Psychtoolbox](https://psychtoolbox.org/). The repository includes scripts for:
@@ -41,5 +45,4 @@ Participant-facing information about the study and experimental procedure is ava
 
 ## Author
 
-Created by [Ayşe Betül Yüce](https://github.com/aysebetul)
-
+Created by [Ayşe Betül Yüce](https://github.com/aysebetul).
